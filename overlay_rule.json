@@ -1,0 +1,3 @@
+{
+  "sdc_overlay": "-e vxlan -s svp -p svp/host=portolan.emy-12.joyent.us -p svp/underlay_ip=172.31.12.2 -p vxlan/listen_ip=172.31.12.2 -p mtu=8500"
+}

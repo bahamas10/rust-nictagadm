@@ -1,0 +1,6 @@
+[package]
+name = "nictagadm"
+version = "0.1.0"
+authors = ["Dave Eddy <dave@daveeddy.com>"]
+
+[dependencies]

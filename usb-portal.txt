@@ -1,0 +1,22 @@
+#
+# This file was auto-generated and must be source-able by bash.
+#
+
+admin_nic=00:11:22:33:44:55
+admin_ip=10.0.1.11
+admin_netmask=255.255.255.0
+admin_network=
+admin_gateway=10.0.1.11
+
+headnode_default_gateway=10.0.1.1
+
+dns_resolvers=10.0.1.2,10.0.1.3,208.67.222.222,208.67.222.220
+dns_domain=rapture.com
+
+ntp_hosts=0.smartos.pool.ntp.org
+compute_node_ntp_hosts=10.0.1.11
+
+hostname=portal.rapture.com
+
+external_nic=aa:bb:cc:dd:ee:ff
+
